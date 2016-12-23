@@ -21,7 +21,6 @@ define(function(require, exports, module) {
         initialize: function() {
             const _this = this;
 
-            /*基金吧首页*/
             _this.$el.on("initIndexView", function() {
                 const target = $("#indexView");
                 if($.isEmpty(target.data("isload"))) {
