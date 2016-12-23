@@ -32,7 +32,7 @@ double click index.html start
 ```
 ####打包
 ```
-npm build
+grunt or double click build.bat
 ```
 ## Dependencies
 - [backbone](https://github.com/jashkenas/backbone)
